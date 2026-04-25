@@ -29,8 +29,7 @@ Currently strengthening skills in Java Full Stack and Python-based automation.
 | Business Intelligence | Metabase — dashboards, custom reports, data analysis |
 | Languages | Java (OOP), Python, SQL, JavaScript |
 | Databases | MySQL |
-| AI / ML | TensorFlow, Keras, ANN, Scikit-learn, Pandas, NumPy |
-| Web | HTML, CSS, Streamlit |
+| Web | HTML, CSS |
 | Version Control | Git, GitHub |
 
 ---
